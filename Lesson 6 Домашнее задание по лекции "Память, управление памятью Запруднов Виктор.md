@@ -16,4 +16,4 @@ Inactive:
 Добавил для себя сразу 
 1. lscpu | grep Архитектура
 2. cat /proc/cpuinfo | grep model, почему то не работает поиск по словам "model name" хотя они в файлике есть.
-3. cat /proc/meminfo | grep Inactive:
+3. cat /proc/meminfo | grep Inactive
