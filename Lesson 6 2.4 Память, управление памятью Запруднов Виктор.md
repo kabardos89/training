@@ -32,6 +32,6 @@ swapon: /swapfile: swapon failed: Недопустимый аргумент
 Нашёл статью что без бубна тут не обойтись…
 https://zen.yandex.ru/media/id/5db841f6ec575b00ad9fe361/kak-sozdat-swapfail-v-fedora-33-60473a009e9a5735c1893e75
 Не стал так делать, а просто переустановил систему с ext4.
-# Ответ на задание №5:
+
 
 
