@@ -17,3 +17,21 @@ Inactive:
 1. lscpu | grep Архитектура
 2. cat /proc/cpuinfo | grep model, почему то не работает поиск по словам "model name" хотя они в файлике есть.
 3. cat /proc/meminfo | grep Inactive
+# Ответ на задание №4:
+![Screenshot_20220712_142928](https://user-images.githubusercontent.com/107581500/178482787-ea4be3b4-222d-4ab3-9016-ec3cdd54db98.jpg)
+![Screenshot_20220712_143140](https://user-images.githubusercontent.com/107581500/178482791-e8d4bc74-a1ce-46bd-a9f1-ee00c44ce281.jpg)
+![Screenshot_20220712_143330](https://user-images.githubusercontent.com/107581500/178482794-bece38de-3c0d-423b-a48e-3189762dee51.jpg)
+
+Сделал, но мне никто не ответил почему это не работает на Федоре. 
+При активации sudo swapon /swapfile пишет:
+sudo swapon /swapfile
+swapon: /swapfile: swapon failed: Недопустимый аргумент
+
+Возможно ли это что у меня Fedora и - btrfs файловая система?
+
+Нашёл статью что без бубна тут не обойтись…
+https://zen.yandex.ru/media/id/5db841f6ec575b00ad9fe361/kak-sozdat-swapfail-v-fedora-33-60473a009e9a5735c1893e75
+Не стал так делать, а просто переустановил систему с ext4.
+# Ответ на задание №5:
+
+
