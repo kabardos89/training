@@ -10,3 +10,7 @@ RAID 10 совмещает в себе производительность RAID
 ![Снимок экрана от 2022-07-19 14-10-34](https://user-images.githubusercontent.com/107581500/179737000-3558e032-5c48-48d7-9482-38ed5537e278.png)
 ![Снимок экрана от 2022-07-19 14-10-48](https://user-images.githubusercontent.com/107581500/179737003-4528fe65-63e3-439a-8002-a6ed7e17c662.png)
 ![Снимок экрана от 2022-07-19 14-11-03](https://user-images.githubusercontent.com/107581500/179737005-9630eefc-a3d5-4725-8a3d-1902cf1a233b.png)
+# Ответ на вопрос №4
+![Screenshot from 2022-07-19 19-46-13](https://user-images.githubusercontent.com/107581500/180030360-600b3320-4b20-4f4d-91a6-88cbbed45740.png)
+![Screenshot from 2022-07-20 06-10-47](https://user-images.githubusercontent.com/107581500/180030365-ad44a87d-b2de-4b49-968c-9d7ee00c2c7e.png)
+# Ответ на вопрос №5 Не успел, можно взять на доработку?
