@@ -14,3 +14,10 @@ RAID 10 совмещает в себе производительность RAID
 ![Screenshot from 2022-07-19 19-46-13](https://user-images.githubusercontent.com/107581500/180030360-600b3320-4b20-4f4d-91a6-88cbbed45740.png)
 ![Screenshot from 2022-07-20 06-10-47](https://user-images.githubusercontent.com/107581500/180030365-ad44a87d-b2de-4b49-968c-9d7ee00c2c7e.png)
 # Ответ на вопрос №5 Не успел, можно взять на доработку?
+![Снимок экрана_2022-07-23_13-40-26](https://user-images.githubusercontent.com/107581500/180601820-cbff4afe-8c9a-4d40-9c2f-19c80044c893.png)
+![Снимок экрана_2022-07-23_13-39-33](https://user-images.githubusercontent.com/107581500/180601823-77454c9f-4b55-476d-9aee-a14bb2d2e936.png)
+![Снимок экрана_2022-07-23_13-39-40](https://user-images.githubusercontent.com/107581500/180601824-264dec12-360c-4b90-b68f-ec9f3e69452a.png)
+![Снимок экрана_2022-07-23_13-39-47](https://user-images.githubusercontent.com/107581500/180601825-b86f6ae7-99bc-442f-add1-1a1abdc5418b.png)
+![Снимок экрана_2022-07-23_13-40-03](https://user-images.githubusercontent.com/107581500/180601826-44a7311b-c3e2-44b9-a2e4-19925d4d43e9.png)
+![Снимок экрана_2022-07-23_13-40-09](https://user-images.githubusercontent.com/107581500/180601827-bd7e9471-e7b2-416c-b725-3cb5eeb03b8d.png)
+![Снимок экрана_2022-07-23_13-40-18](https://user-images.githubusercontent.com/107581500/180601828-11c0d0ad-c235-4290-a61b-a9cd7b35129f.png)
