@@ -8,7 +8,7 @@
 
 3.2 sudo dnf repolist all и aptly repo list
 
-3.3 inxi 
+3.3 inxi -F
 
 3.4 ls -l  /sbin/init
 
