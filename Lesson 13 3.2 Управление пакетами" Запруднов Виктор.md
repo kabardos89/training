@@ -6,9 +6,13 @@
 Решается сверкой цифровых ключей между пользователем и репозиторием.
 # Ответ на задание №3: 
 Команды использованные:
+
 apt search htop
+
 apt show htop
+
 apt install htop
+
 dpkg -S htop
 
 ![3 1](https://user-images.githubusercontent.com/107581500/184288550-969e7448-85d8-476f-8d18-29b5d3da2bd9.jpg)
