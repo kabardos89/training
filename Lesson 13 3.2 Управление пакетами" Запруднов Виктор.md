@@ -17,3 +17,11 @@ dpkg -S htop
 
 ![3 1](https://user-images.githubusercontent.com/107581500/184288550-969e7448-85d8-476f-8d18-29b5d3da2bd9.jpg)
 ![3](https://user-images.githubusercontent.com/107581500/184288553-30a1d2c7-bd02-4d11-a280-a1afaa85b6e6.jpg)
+# Ответ на задание №4: 
+![4 1](https://user-images.githubusercontent.com/107581500/184522649-aa5e1658-a361-4b9b-82c2-b89721702d5a.jpg)
+![4](https://user-images.githubusercontent.com/107581500/184522652-c7f22628-3f86-462f-bc92-a0311fd25a42.jpg)
+# Ответ на задание №5: 
+![5](https://user-images.githubusercontent.com/107581500/184522665-320ac653-8822-4c37-8882-8dc4e84ee584.jpg)
+![5 1](https://user-images.githubusercontent.com/107581500/184522667-366366ff-634b-4cdd-a43f-81ae14480a34.jpg)
+# Ответ на задание №6: 
+dnf в линейке от Red Hat, в других дистрибутивах есть различные pacman,
