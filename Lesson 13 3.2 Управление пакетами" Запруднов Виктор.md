@@ -25,6 +25,6 @@ dpkg -S htop
 ![5 1](https://user-images.githubusercontent.com/107581500/184522667-366366ff-634b-4cdd-a43f-81ae14480a34.jpg)
 # Ответ на задание №6: 
 dnf в линейке от Red Hat, в других дистрибутивах есть различные мп например  pacman  для ARCH, или emerge для Gentoo.
-# Ответ на задание №6: 
+# Ответ на задание №7: 
 Не очень понимаю поставленно задачи? wget  ссылкой через tree добавить  какой нибудь репозиторий  в /etc/apt/sources.list.d/ , а далее apt upgrade? Поправьте пожалуйста меня.
 Или что то типа такого? https://www.dmosk.ru/instruktions.php?object=build-deb 
