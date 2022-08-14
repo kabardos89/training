@@ -24,4 +24,4 @@ dpkg -S htop
 ![5](https://user-images.githubusercontent.com/107581500/184522665-320ac653-8822-4c37-8882-8dc4e84ee584.jpg)
 ![5 1](https://user-images.githubusercontent.com/107581500/184522667-366366ff-634b-4cdd-a43f-81ae14480a34.jpg)
 # Ответ на задание №6: 
-dnf в линейке от Red Hat, в других дистрибутивах есть различные pacman,
+dnf в линейке от Red Hat, в других дистрибутивах есть различные мп например  pacman  для ARCH, или emerge для Gentoo.
