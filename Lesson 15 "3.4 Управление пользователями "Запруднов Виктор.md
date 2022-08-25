@@ -15,3 +15,4 @@
 ![4 2JPG](https://user-images.githubusercontent.com/107581500/186435536-0784b78e-5c73-43e4-81d1-032657b39105.JPG)
 
 # Ответ на задание №5: 
+![5](https://user-images.githubusercontent.com/107581500/186592917-015a197e-f75c-410e-8e53-726b5f1a6c7d.JPG)
