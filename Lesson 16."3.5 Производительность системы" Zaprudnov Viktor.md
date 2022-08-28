@@ -24,3 +24,9 @@ atopsar-G
 # Ответ на задание №3:
 
 ![image](https://user-images.githubusercontent.com/107581500/187065808-b4a286e3-ccd3-4f84-9700-9a90cc21f633.png)
+
+# Ответ на задание №4:
+
+![image](https://user-images.githubusercontent.com/107581500/187066218-2374639d-0343-4b07-920c-4716af70d7ae.png)
+
+
