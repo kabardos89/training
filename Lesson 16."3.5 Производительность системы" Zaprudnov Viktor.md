@@ -22,3 +22,5 @@ atopsar-G
 ![image](https://user-images.githubusercontent.com/107581500/187034379-c9aa1fa8-b115-44f3-88a0-1c41f6bcc885.png)
 
 # Ответ на задание №3:
+
+![image](https://user-images.githubusercontent.com/107581500/187065808-b4a286e3-ccd3-4f84-9700-9a90cc21f633.png)
