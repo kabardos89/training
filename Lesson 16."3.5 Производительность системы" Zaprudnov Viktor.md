@@ -30,6 +30,8 @@ atopsar-G
 ![image](https://user-images.githubusercontent.com/107581500/187066218-2374639d-0343-4b07-920c-4716af70d7ae.png)
 
 # Ответ на задание №5:
-Запустил htop в отдельном окне, а в 20:25. Отследил в том же htop его PID. 
+Запустил htop в отдельном окне  в 20:24. Отследил в том же htop его PID. 
 ![image](https://user-images.githubusercontent.com/107581500/187260771-d2eab2d8-2ce7-41b7-90b2-975f2fd1526c.png)
-В соответствии номеру PID нашёл папку в /proc и сделал ls -lah где видно что директория создалась в 20:25
+В соответствии номеру PID нашёл папку в /proc и сделал ls -la где видно что директория создалась в 20:24.
+
+![image](https://user-images.githubusercontent.com/107581500/187263127-ee656a5b-abc4-487e-891d-e376f9218bf6.png)
