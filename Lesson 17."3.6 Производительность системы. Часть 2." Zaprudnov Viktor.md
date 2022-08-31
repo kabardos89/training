@@ -6,6 +6,6 @@
 В случае копирования в iostat видны строки скорости записи на диск sda
 ![image](https://user-images.githubusercontent.com/107581500/187681248-a737727a-7e37-43ba-9ac3-ba4746c52c30.png)
 
-В случае копирования в iotop 
+ в iotop мы видим команду которая запустила процесс и что она делает, в нашем случае запись.
 
 ![image](https://user-images.githubusercontent.com/107581500/187681199-0c5e423a-e9d9-4765-8883-0505c878ed46.png)
