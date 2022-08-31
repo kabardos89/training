@@ -9,3 +9,7 @@
  в iotop мы видим команду которая запустила процесс и что она делает, в нашем случае запись.
 
 ![image](https://user-images.githubusercontent.com/107581500/187681199-0c5e423a-e9d9-4765-8883-0505c878ed46.png)
+
+# Ответ на задание №3:
+
+![3](https://user-images.githubusercontent.com/107581500/187748803-d0425775-cee4-4b82-b1ee-052f7c1810d4.JPG)
