@@ -20,7 +20,7 @@
 Если да, то какой командой, если нет - почему?
 Для чего может понадобиться изменять MAC-адреса?
 
-Изменить можно,есть несколько инстурментов и нетодик через /etc/NetworkManager/NetworkManager.conf , iproute2, ,macchanger.
+Изменить можно,есть несколько инструментов и методик через /etc/NetworkManager/NetworkManager.conf , iproute2, ,macchanger.
 
 
 В macchanger это серия команд, сначала с откючением интерфейся sudo ip link set dev eth1 down , далее просмотр значения мак адреса
