@@ -11,3 +11,6 @@
 ![5](https://user-images.githubusercontent.com/107581500/192721374-25cec1bf-3a67-420c-a916-6f493a716e9d.JPG)
 
 ![6](https://user-images.githubusercontent.com/107581500/192721358-b2249e9b-6705-4000-b694-422edad4463b.JPG)
+
+# Ответ на задание №2:
+![7](https://user-images.githubusercontent.com/107581500/192721561-92bf6d58-e8e6-455f-9c6a-3a41addb3bb7.JPG)
