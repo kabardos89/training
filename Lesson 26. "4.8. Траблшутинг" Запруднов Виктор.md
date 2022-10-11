@@ -37,12 +37,14 @@
 
 До 
 
-![До ](https://user-images.githubusercontent.com/107581500/195183525-e76187ec-45cf-4e4a-b722-bbbbda94b7b1.JPG)
+![До ](https://user-images.githubusercontent.com/107581500/195184678-63669063-1a09-48f8-8456-13348c8acd4c.JPG)
+
 
 Во время 
 
-![Во время ](https://user-images.githubusercontent.com/107581500/195183624-3885342d-8572-4e43-8e39-c9142aeb5d58.JPG)
+![Во время ](https://user-images.githubusercontent.com/107581500/195184687-0c1d11d9-71f5-42d4-95d1-b91075ae2b06.JPG)
 
+Практически ничего не изменилось. Доли секунд какие то. Разницы между физ. машиной и виртуальной скорее всего никакой не будет.
 
 
 
