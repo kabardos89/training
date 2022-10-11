@@ -33,6 +33,16 @@
 3.Пинг пройдет, если нет запретов в iptables на icmp опросы.
 
 
+# Ответ на задание №4:
+
+До 
+
+![До ](https://user-images.githubusercontent.com/107581500/195183525-e76187ec-45cf-4e4a-b722-bbbbda94b7b1.JPG)
+
+Во время 
+
+![Во время ](https://user-images.githubusercontent.com/107581500/195183624-3885342d-8572-4e43-8e39-c9142aeb5d58.JPG)
+
 
 
 
