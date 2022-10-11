@@ -5,6 +5,6 @@
 3. Какой командой можно воспользоваться для просмотра файла журнала в режиме реального времени? 
 
 
-1.  error_log /var/log/nginx/error.log /  access.log /var/log/nginx/access.log
-2.  nano /etc/nginx/nginx.conf
-3.  tail -f  access.log/error.log
+1  error_log /var/log/nginx/error.log /  access.log /var/log/nginx/access.log
+2  nano /etc/nginx/nginx.conf
+3  tail -f  access.log/error.log
