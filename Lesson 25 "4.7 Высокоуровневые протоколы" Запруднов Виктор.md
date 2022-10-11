@@ -8,3 +8,7 @@ SNMP - 161-162
 
 # Ответ на задание №2:
 7
+
+
+# Ответ на задание №3:
+![image](https://user-images.githubusercontent.com/107581500/195102979-481a72b8-e184-462b-bf80-70ce936730ac.png)
