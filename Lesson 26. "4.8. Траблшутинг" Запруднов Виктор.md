@@ -6,5 +6,9 @@
 
 
 1  error_log /var/log/nginx/error.log /  access.log /var/log/nginx/access.log
+
 2  nano /etc/nginx/nginx.conf
+
 3  tail -f  access.log/error.log
+
+
