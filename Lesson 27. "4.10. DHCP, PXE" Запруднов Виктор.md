@@ -23,3 +23,6 @@
 
 69 - Сервер SNTP по умолчанию.
 
+# Ответ на задание №4:
+
+![4](https://user-images.githubusercontent.com/107581500/195492472-d8c3ada6-b36a-4b2c-a4a7-72bd2de309c2.JPG)
