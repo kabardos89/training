@@ -10,5 +10,12 @@
 # Ответ на задание №2:
 
 
+![3](https://user-images.githubusercontent.com/107581500/196031977-dcac7b32-645b-4ec5-b7f6-3488f3187dde.JPG)
+
+
+
+# Ответ на задание №3:
+
+![image](https://user-images.githubusercontent.com/107581500/196032460-d4128ecd-cb2a-40d0-8406-96c47de6d977.png)
 
 
