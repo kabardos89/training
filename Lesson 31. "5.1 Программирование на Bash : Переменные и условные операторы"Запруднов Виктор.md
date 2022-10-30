@@ -16,3 +16,10 @@
 
 
 
+# Ответ на задание №3: 
+
+![image](https://user-images.githubusercontent.com/107581500/198895449-98c082ff-3abb-489e-9e59-689dd2faf55c.png)
+
+![image](https://user-images.githubusercontent.com/107581500/198895465-d1da018c-9656-4287-bea5-31eb4c0d0649.png)
+
+
