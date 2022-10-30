@@ -6,3 +6,13 @@
 
 ![image](https://user-images.githubusercontent.com/107581500/198845347-59a68ffd-04c8-4065-8bae-11dcb4819336.png)
 
+
+# Ответ на задание №2: 
+
+![image](https://user-images.githubusercontent.com/107581500/198885530-b31fb443-4d40-4b71-891f-691542903e7a.png)
+
+
+![image](https://user-images.githubusercontent.com/107581500/198885567-7a474eef-1ef2-4585-9ddd-1214ff571d42.png)
+
+
+
