@@ -18,8 +18,8 @@
 
 # Ответ на задание №3: 
 
-![image](https://user-images.githubusercontent.com/107581500/198895449-98c082ff-3abb-489e-9e59-689dd2faf55c.png)
+![image](https://user-images.githubusercontent.com/107581500/199220553-db184f34-8d21-47e7-bee8-29e81517561d.png)
 
-![image](https://user-images.githubusercontent.com/107581500/198895465-d1da018c-9656-4287-bea5-31eb4c0d0649.png)
+![image](https://user-images.githubusercontent.com/107581500/199220611-f6b23321-954c-49c5-ab1b-ec82aa00bd08.png)
 
 
