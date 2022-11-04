@@ -8,3 +8,8 @@
 # Ответ на задание №2:
 
 
+![image](https://user-images.githubusercontent.com/107581500/199946440-8ea2b065-f2c9-4be3-ac1b-7d1f72b052a2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/107581500/199946516-ca20ecb3-5fe2-4a4a-978c-ebbc90d0d6df.png)
