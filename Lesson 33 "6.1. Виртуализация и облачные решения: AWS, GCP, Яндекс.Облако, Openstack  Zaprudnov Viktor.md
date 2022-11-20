@@ -57,7 +57,7 @@ STaaS — это аренда у поставщика облачных услу�
 
 ![image](https://user-images.githubusercontent.com/107581500/202901378-d616c32f-f58b-4323-ba83-6c834ebc0c8b.png)
 
-![image](https://user-images.githubusercontent.com/107581500/202901394-e07beddd-5baf-43d1-a895-55a9dc83790e.png)
+![image](https://user-images.githubusercontent.com/107581500/202901440-b8e908e8-a4f8-4d5a-85e5-8406848c4931.png)
 
 
 
