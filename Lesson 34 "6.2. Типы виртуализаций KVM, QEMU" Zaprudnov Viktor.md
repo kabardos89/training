@@ -9,3 +9,7 @@
 
 ![1](https://user-images.githubusercontent.com/107581500/203335662-9b24f988-8159-4259-9fc8-c47ca6b6435f.JPG)
 
+# Ответ на задание №3:
+
+
+![2](https://user-images.githubusercontent.com/107581500/204545555-0e336d67-faec-4d7b-9b8a-ddd160d2c3d2.JPG)
