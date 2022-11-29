@@ -16,3 +16,4 @@
 
 
 # Ответ на задание №4: 
+![2022-11-29_22-48-16](https://user-images.githubusercontent.com/107581500/204648428-607f967a-a0a0-4ec4-938c-bff8f05ad777.png)
