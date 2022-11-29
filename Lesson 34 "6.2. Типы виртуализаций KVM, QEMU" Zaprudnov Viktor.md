@@ -13,3 +13,6 @@
 
 
 ![2](https://user-images.githubusercontent.com/107581500/204545555-0e336d67-faec-4d7b-9b8a-ddd160d2c3d2.JPG)
+
+
+# Ответ на задание №4: 
