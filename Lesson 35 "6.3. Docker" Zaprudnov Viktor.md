@@ -5,3 +5,14 @@
 
 # Ответ на задани №2:
 
+![D1](https://user-images.githubusercontent.com/107581500/204881048-15e0b887-eddf-4873-8f90-fe412829042d.png)
+
+
+# Ответ на задани №3:
+
+![D2](https://user-images.githubusercontent.com/107581500/204883730-6f954699-1c34-493a-a112-576f7de85520.png)
+
+
+# Ответ на задани №4:
+
+![D3](https://user-images.githubusercontent.com/107581500/204883847-a9da5e40-8bbf-4d79-9ab4-5d25eabcaffd.png)
