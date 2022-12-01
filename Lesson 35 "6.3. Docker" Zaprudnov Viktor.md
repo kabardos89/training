@@ -24,3 +24,11 @@
 ![D4 2](https://user-images.githubusercontent.com/107581500/205138587-8d37510a-6fa0-4f62-a0bc-2ec5a066a99f.png)
 ![D4](https://user-images.githubusercontent.com/107581500/205138590-bb275e8d-ac5b-4b7d-ae7c-0a9d3ebcc3a7.png)
 ![D4 1](https://user-images.githubusercontent.com/107581500/205138591-f8fc0197-5956-4bb4-9b5c-1720dfaea08b.png)
+
+
+# Ответ на задани №6:
+
+![D4z2](https://user-images.githubusercontent.com/107581500/205138723-f0faedcb-f25f-436c-a87a-9474767020fe.png)
+![D4z3](https://user-images.githubusercontent.com/107581500/205138727-85290f34-1ef4-4977-901f-3c1e3f10c335.png)
+![D4z](https://user-images.githubusercontent.com/107581500/205138731-f2284da5-b1b1-48bb-8ab5-b8b8c7dd2c80.png)
+
