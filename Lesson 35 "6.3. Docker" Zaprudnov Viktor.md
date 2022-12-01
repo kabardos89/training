@@ -16,3 +16,11 @@
 # Ответ на задани №4:
 
 ![D3](https://user-images.githubusercontent.com/107581500/204883847-a9da5e40-8bbf-4d79-9ab4-5d25eabcaffd.png)
+
+
+
+# Ответ на задани №5:
+
+![D4 2](https://user-images.githubusercontent.com/107581500/205138587-8d37510a-6fa0-4f62-a0bc-2ec5a066a99f.png)
+![D4](https://user-images.githubusercontent.com/107581500/205138590-bb275e8d-ac5b-4b7d-ae7c-0a9d3ebcc3a7.png)
+![D4 1](https://user-images.githubusercontent.com/107581500/205138591-f8fc0197-5956-4bb4-9b5c-1720dfaea08b.png)
