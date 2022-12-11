@@ -17,6 +17,9 @@ Docker Compose нужен для того что бы несколько кон�
 # Ответ на задание №7:
 
 ![image](https://user-images.githubusercontent.com/107581500/206919935-ac07f086-5b6b-49f2-bbf0-d6f664429a1c.png)
+![DC7](https://user-images.githubusercontent.com/107581500/206921019-9939c304-67da-4582-add2-113b76383c17.JPG)
+
+
 
 ```
 version: "3"
