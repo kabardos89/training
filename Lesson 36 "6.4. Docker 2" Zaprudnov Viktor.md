@@ -16,7 +16,7 @@ Docker Compose нужен для того что бы несколько кон�
 
 # Ответ на задание №5-№6:
 
-`version: "3"
+```version: "3"
 services:
 
  zaprudnovva-netology-db:
@@ -91,5 +91,5 @@ networks:
   driver: bridge
   ipam:
    config:
-   - subnet: 172.22.0.0/24`
+   - subnet: 172.22.0.0/24```
 
