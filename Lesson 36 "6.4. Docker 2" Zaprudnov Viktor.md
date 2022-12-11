@@ -16,6 +16,8 @@ Docker Compose нужен для того что бы несколько кон�
 
 # Ответ на задание №7:
 
+![image](https://user-images.githubusercontent.com/107581500/206919935-ac07f086-5b6b-49f2-bbf0-d6f664429a1c.png)
+
 ```
 version: "3"
 services:
@@ -94,7 +96,7 @@ networks:
    config:
    - subnet: 172.22.0.0/24
 
-![image](https://user-images.githubusercontent.com/107581500/206919935-ac07f086-5b6b-49f2-bbf0-d6f664429a1c.png)
+
 
 
 
